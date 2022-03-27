@@ -1,0 +1,16 @@
+Навыки:
+TestingTheory
+Terminal
+Github
+Charles
+Fiddler
+DevTools
+MobileTesting
+AndroidStudio
+ADB
+SQL
+Postgres
+Redis
+Jmeter
+Scrum
+Python
